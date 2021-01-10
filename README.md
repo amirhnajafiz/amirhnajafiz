@@ -16,7 +16,7 @@ I believe in : <br />
 </p>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=amirhnajafiz&show_icons=true&theme=dark)<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhnajafiz&langs_count=5&theme=dark)](https://github.com/amirhnajafiz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhnajafiz&langs_count=5&theme=dark&hide=HTML)](https://github.com/amirhnajafiz/github-readme-stats)
 
 <p align='center'>
 <a href="https://twitter.com/amirhnajafiz"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
