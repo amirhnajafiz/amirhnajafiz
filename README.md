@@ -22,11 +22,31 @@
 </p>
 
 <p align="center">
+  <img src="https://cdn.svgporn.com/logos/jetbrains.svg" width=50 />
+  <img src="https://cdn.svgporn.com/logos/xampp.svg" width=50 />
+  <img src="https://cdn.svgporn.com/logos/git.svg" width=50 />
+</p>
+
+<p align="center">
+  <img src="https://cdn.svgporn.com/logos/c.svg" width=50 />
   <img src="https://camo.githubusercontent.com/1141fa873ae7371cd6b723fef0cd57ca14923123983844571416854b7f5e8fb6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f63706c7573706c75732e737667" width=50 />
   <img src="https://camo.githubusercontent.com/a870803f30db1d15495072fa9e946a7fa6a6fc1a47fe12324aaf7509c410fc4a/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176612e737667" width=50 />
   <img src="https://camo.githubusercontent.com/aa96ee3a3352c9c3c2161d3e95698d0885a277ab85d617fe77912627d37a3959/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f707974686f6e2e737667" width=50 />
   <img src="https://camo.githubusercontent.com/a499f82c059b2fd21339974a9a7dfe2b72180faa14c9d420c02806c2e9b4362e/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f646a616e676f70726f6a6563742e737667" width=50 />
-  <img src="https://camo.githubusercontent.com/702655104afd65ad02c658dd178f2400bcea86ef7c4e6545562bceacf7856228/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f776f726470726573732e737667" width=50 />
+</p>
+
+<p align="center">
+    <img src="https://cdn.svgporn.com/logos/html-5.svg" width=50 />
+    <img src="https://cdn.svgporn.com/logos/css-3.svg" width=50 />
+    <img src="https://cdn.svgporn.com/logos/jquery.svg" width=50 />
+    <img src="https://cdn.svgporn.com/logos/sass.svg" width=50 />
+    <img src="https://cdn.svgporn.com/logos/bootstrap.svg" width=50 />
+</p>
+
+<p align="center">
+    <img src="https://cdn.svgporn.com/logos/cpanel.svg" width=50 />
+    <img src="https://cdn.svgporn.com/logos/wordpress-icon.svg" width=50 />
+    <img src="https://cdn.svgporn.com/logos/woocommerce-icon.svg" width=50 />
 </p>
 
 
