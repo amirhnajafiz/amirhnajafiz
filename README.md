@@ -12,7 +12,7 @@
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=amirhnajafiz&show_icons=true&theme=dark&style=centerme)<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhnajafiz&langs_count=5&theme=dark&hide=HTML&style=centerme)](https://github.com/amirhnajafiz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhnajafiz&langs_count=8&theme=dark&hide=HTML&style=centerme)](https://github.com/amirhnajafiz/github-readme-stats)
 
 <p align="center">
   <img src="https://camo.githubusercontent.com/875b2967090ac970937698e92e1bfeefdc6168b9afb428aabfe321e19d549d74/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e75782e737667" width=50 />
