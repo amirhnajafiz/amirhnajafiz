@@ -1,18 +1,21 @@
-## [![amirhossein's header](https://github.com/amirhnajafiz/amirhnajafiz/blob/main/crop.php.jpg)](https://github.com/amirhnajafiz?tab=repositories)
+<p align="center">
+  <a href="https://github.com/amirhnajafiz?tab=repositories"><img src="https://github.com/amirhnajafiz/amirhnajafiz/blob/main/crop.php.jpg" /></a><br /><br />
+</p>
 
 <h2>Hello there! My name is Amirhossein. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">🤓</h2>
 <p>
-  I'm a 19 years old computer engineer at <b>"AmirKabir University of Tehran"</b>.<br />
+  I'm a 20 years old computer engineer at <b>"AmirKabir University of Tehran"</b>.
 </p>
 <p>
   Need help ? You can always count on me. <br />
-  I believe in : <br />
   <q><i> Never too late to do what you have been dreamed of </i></q>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amirhnajafiz&show_icons=true&theme=dark&style=centerme" width=500 /><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirhnajafiz&langs_count=8&theme=dark&hide=HTML&style=centerme" width=300 />
+</p>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=amirhnajafiz&show_icons=true&theme=dark&style=centerme)<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhnajafiz&langs_count=8&theme=dark&hide=HTML&style=centerme)](https://github.com/amirhnajafiz/github-readme-stats)
 
 <p align="center">
   <img src="https://camo.githubusercontent.com/875b2967090ac970937698e92e1bfeefdc6168b9afb428aabfe321e19d549d74/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e75782e737667" width=50 />
