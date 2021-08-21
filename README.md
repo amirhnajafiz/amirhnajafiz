@@ -1,60 +1,94 @@
 <p align="center">
-  <a href="https://github.com/amirhnajafiz?tab=repositories"><img src="https://github.com/amirhnajafiz/amirhnajafiz/blob/main/crop.php.jpg" /></a><br /><br />
+  
+  <img src="crop.php.jpg" />
+  
+  > _'' Never too late to do what you have been dreamed of ''_
+  
 </p>
 
-<h2>Hello there! My name is Amirhossein. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">🤓</h2>
-<p>
-  I'm a 20 years old computer engineer at <b>"AmirKabir University of Tehran"</b>.
-</p>
-<p>
-  Need help ? You can always count on me. <br />
-  <q><i> Never too late to do what you have been dreamed of </i></q>
-</p>
+```php
+    // Be rebel, Be unique, Be yourself
+    start_life();
+    while (is_alive) {
+	    dream_big();
+	    keep_working();
+	    enjoy_life();
+    }
+    exit();
+```
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirhnajafiz&show_icons=true&theme=dark&style=centerme" width=500 /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirhnajafiz&langs_count=8&theme=dark&hide=HTML&style=centerme" width=300 />
-</p>
+## Hello there
+My name is ***AmirHossein***, I am a 20 years old computer engineer, web designer and PHP developer. 
+Currently studing as *Amirkabir University of Tehran, Iran*.
 
+___
 
-<p align="center">
-  <img src="https://camo.githubusercontent.com/875b2967090ac970937698e92e1bfeefdc6168b9afb428aabfe321e19d549d74/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e75782e737667" width=50 />
-  <img src="https://camo.githubusercontent.com/060acf7e46293144e29fca9e750d2d73af82c51bcb2d7340eb3ff24e9e03c6f0/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f64656269616e2e737667" width=50 />
-  <img src="https://camo.githubusercontent.com/05eece38536aac5c8437e2cb46362e545443a80922c5e28463530726a6d186ac/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f77696e646f77732e737667" width=50 />
-  <img src="https://camo.githubusercontent.com/73bd7cb04728a3ba23bd6aa6740f7c8b585df12db44f4492ec46fc8e30b2115f/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d61636f732e737667" width=50 />
-</p>
+### Fields of interest 
+ - Front-end Development 
+ - Back-end Development 
+ - Artificial Intelligence
+ - Teaching and Mentoring
 
-<p align="center">
-  <img src="https://cdn.svgporn.com/logos/jetbrains.svg" width=50 />
-  <img src="https://cdn.svgporn.com/logos/xampp.svg" width=50 />
-  <img src="https://cdn.svgporn.com/logos/git.svg" width=50 />
-</p>
+___
 
-<p align="center">
-  <img src="https://cdn.svgporn.com/logos/c.svg" width=50 />
-  <img src="https://camo.githubusercontent.com/1141fa873ae7371cd6b723fef0cd57ca14923123983844571416854b7f5e8fb6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f63706c7573706c75732e737667" width=50 />
-  <img src="https://camo.githubusercontent.com/a870803f30db1d15495072fa9e946a7fa6a6fc1a47fe12324aaf7509c410fc4a/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176612e737667" width=50 />
-  <img src="https://camo.githubusercontent.com/aa96ee3a3352c9c3c2161d3e95698d0885a277ab85d617fe77912627d37a3959/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f707974686f6e2e737667" width=50 />
-  <img src="https://camo.githubusercontent.com/a499f82c059b2fd21339974a9a7dfe2b72180faa14c9d420c02806c2e9b4362e/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f646a616e676f70726f6a6563742e737667" width=50 />
-</p>
+### Programming languages and Frameworks
+ - Front-end
+	 - Markdown <img src="https://img.icons8.com/material-outlined/2x/markdown.png" width="20" />
+	 - HTML / HTML5 <img src="https://img.icons8.com/color/2x/html-5.png" width="20" />
+	 - CSS / CSS3 <img src="https://img.icons8.com/color/2x/css3.png" width="20" />
+	 - Bootstrap / Bootstrap 4 <img src="https://img.icons8.com/color/2x/bootstrap.png" width="20" />
+	 - JavaScript <img src="https://img.icons8.com/color/2x/javascript.png" width="20" />
+		 - jQuery <img src="https://img.icons8.com/ios/2x/jquery.png" width="20" />
+		 - Ajax 
+		 - Vue.js <img src="https://img.icons8.com/color/2x/vue-js.png" width="20" />
+			 - Vuex
+			 - Vuetify
+			 - Bootstrap Vue 
+		 - React.js <img src="https://img.icons8.com/office/2x/react.png" width="20" />
+			 - Gatsby.js
+	 - Jinja / Jinja 2 
+	 - Blade 
+ - Back-end
+	 - Python
+		 - Flask <img src="https://img.icons8.com/ios/2x/flask.png" width="20" />
+		 - Django <img src="https://img.icons8.com/color/2x/django.png" width="20" />
+	 - Laravel <img src="https://img.icons8.com/fluency/2x/laravel.png" width="20" />
+ - Software  
+	 - C programming language <img src="https://img.icons8.com/color/2x/c-programming.png" width="20" />
+	 - C++ <img src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" width="20" />
+	 - C# <img src="https://img.icons8.com/color/2x/c-sharp-logo-2.png" width="20" />
+	 - Java programming language <img src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" width="20" />
+	 - Python <img src="https://img.icons8.com/color/2x/python.png" width="20" />
+	 - PHP <img src="https://img.icons8.com/officel/2x/php-logo.png" width="20" />
+ - Database 
+	 - SQL <img src="https://img.icons8.com/dotty/2x/sql.png" width="20" />
+	 - MySQL <img src="https://img.icons8.com/fluency/2x/mysql-logo.png" width="20" />
+	 - SQLite / SQLite3
+	 - MongoDB <img src="https://img.icons8.com/color/2x/mongodb.png" width="20" />
+	 - JSON <img src="https://img.icons8.com/color/2x/json-download.png" width="20" />
+	
+___
 
-<p align="center">
-    <img src="https://cdn.svgporn.com/logos/html-5.svg" width=50 />
-    <img src="https://cdn.svgporn.com/logos/css-3.svg" width=50 />
-    <img src="https://cdn.svgporn.com/logos/jquery.svg" width=50 />
-    <img src="https://cdn.svgporn.com/logos/sass.svg" width=50 />
-    <img src="https://cdn.svgporn.com/logos/bootstrap.svg" width=50 />
-</p>
-
-<p align="center">
-    <img src="https://cdn.svgporn.com/logos/cpanel.svg" width=50 />
-    <img src="https://cdn.svgporn.com/logos/wordpress-icon.svg" width=50 />
-    <img src="https://cdn.svgporn.com/logos/woocommerce-icon.svg" width=50 />
-</p>
-
+### Computer Engineering  Skills
+#### Programming Design Patterns:
+ - Singleton
+ - Factory
+ - Adapter
+ - Builder
+ - Object pool
+ - MVC Architecture
+#### Design Tools:
+ - WordPress systems
+ - Woocommers
+ - Elementor
+ - Polylang
+#### Others
+ - PHPmyadmin
+ - Cpanel 
+___
 
 #### Contact me at : 
-<p align='center'>
+<p>
 <a href="https://twitter.com/amirhnajafiz"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://instagram.com/amirh21"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/amirnhnajafiz21/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
