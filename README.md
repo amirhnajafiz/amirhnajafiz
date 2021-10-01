@@ -89,7 +89,7 @@ ___
 
 #### Contact me at : 
 <p>
-<a href="https://twitter.com/amirhnajafiz"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/amirh21"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/amirnhnajafiz21/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://twitter.com/amirhnajafiz">Twitter</a>&nbsp;&nbsp;
+<a href="https://instagram.com/amirh21">Instagram</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/amirnhnajafiz21/">LinkedIn</a>
 </p>
