@@ -21,7 +21,7 @@ ___
 
 ### About me
 My name is ***Amir Hossein***, I am a 20 years old computer engineer, web designer and Back-end developer.<br /> 
-Currently studing as *Amirkabir University of Tehran, Iran*.<br />
+Currently studing **Computer Engineering** at _Amirkabir University of Tehran_, Iran.<br />
 Working as a full-time Back-end developer at **Snapp-Cab**.<br />
 One year experience in **PHP/Laravel** developing.<br />
 Two years experience in **Front-end** developing, using _Vue.js_<br />
@@ -80,4 +80,4 @@ ___
 </p>
 
 <br /><br /><br />
-It is my pleasure to help people with their problems , so if you ever needed me just send me an email ;)
+It is my pleasure to help people with their problems, so if you ever needed me just send me an email ;)
