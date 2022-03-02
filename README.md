@@ -1,7 +1,3 @@
-## Hello there
-My name is ***AmirHossein***, I am a 20 years old computer engineer, web designer and PHP developer. 
-Currently studing as *Amirkabir University of Tehran, Iran*.
-
 <p align="center">
   
   <img src="crop.php.jpg" />
@@ -21,24 +17,23 @@ Currently studing as *Amirkabir University of Tehran, Iran*.
     }
     exit();
 ```
+___
+
+### About me
+My name is ***Amir Hossein***, I am a 20 years old computer engineer, web designer and Back-end developer.<br /> 
+Currently studing as *Amirkabir University of Tehran, Iran*.<br />
+Working as a full-time Back-end developer at **Snapp-Cab**.<br />
+One year experience in **PHP/Laravel** developing.<br />
+Two years experience in **Front-end** developing, using _Vue.js_<br />
 
 ___
 
 ### Fields of interest 
- - Front-end Development 
- - Back-end Development 
+ - Software engineering  
  - Artificial Intelligence
- - Network
+ - Networks
+ - Devops
  - Teaching and Mentoring
-
-___
-
-### About me
-I am a part-time **web design** teacher. Studying Computer engineering.<br />
-Three years of experience in **Frontend** developing.<br />
-**PHP/Laravel** backed developer at the moment.<br />
-Interested in learning new things. One true computer lover.<br />
-Just trying to be rebel, trying to be me :)
 
 
 ### My important progamming skills
@@ -52,23 +47,36 @@ Just trying to be rebel, trying to be me :)
 	<img src="https://img.shields.io/badge/Ruby-red?style=for-the-badge&color=70092f" />
 	<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/ruby.svg" width="30" />
 </a>&nbsp;
-<a target="_blank" href="https://github.com/yurijserrano/LANGUAGES-TOOLS-LOGOS/tree/master/text%20editors">
-	<img src="https://img.shields.io/badge/PHP-purple?style=for-the-badge&color=4489c2" />
-	<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/php.png" width="30" />
-</a>&nbsp;
 <a target="_blank" href="https://github.com/yurijserrano/LANGUAGES-TOOLS-LOGOS/tree/master/frameworks">
 	<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&color=094e87" />
 	<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" width="30" />
+</a>&nbsp;
+<a target="_blank" href="https://github.com/yurijserrano/LANGUAGES-TOOLS-LOGOS/tree/master/text%20editors">
+	<img src="https://img.shields.io/badge/PHP-purple?style=for-the-badge&color=5821d9" />
+	<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/php.png" width="30" />
+</a>&nbsp;
+<a target="_blank" href="https://github.com/yurijserrano/LANGUAGES-TOOLS-LOGOS/tree/master/others">
+	 <img src="https://img.shields.io/badge/Laravel-orange?style=for-the-badge&color=fc6500" />
+	 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/laravel.svg" width="30" />
+</a>&nbsp;
+
+</p>
+
+<p align="center">
+
+<a target="_blank" href="https://github.com/yurijserrano/LANGUAGES-TOOLS-LOGOS/tree/master/others">
+	<img src="https://img.shields.io/badge/Golang-blue?style=for-the-badge&color=03f0fc" />
+	<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/go.svg" width="30" />
+</a>&nbsp;
+<a target="_blank" href="https://github.com/yurijserrano/LANGUAGES-TOOLS-LOGOS/tree/master/databases">
+	<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&color=d9d021" />
+	<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" width="30" />
 </a>&nbsp;
 <a target="_blank" href="https://github.com/yurijserrano/LANGUAGES-TOOLS-LOGOS/tree/master/cloud">
 	<img src="https://img.shields.io/badge/Vue.js-green?style=for-the-badge&color=09875f" />
 	<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/vuejs.svg" width="30" />
 </a>&nbsp;
- <a target="_blank" href="https://github.com/yurijserrano/LANGUAGES-TOOLS-LOGOS/tree/master/others">
-	 <img src="https://img.shields.io/badge/Laravel-orange?style=for-the-badge&color=fc6500" />
-	 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/laravel.svg" width="30" />
-</a>&nbsp;
-
+	
 </p>
 
 <br /><br /><br />
