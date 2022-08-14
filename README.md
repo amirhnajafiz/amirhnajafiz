@@ -84,6 +84,14 @@ ___
 	<img src="https://img.shields.io/badge/Vue.js-green?style=for-the-badge&color=09875f" />
 	<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/vuejs.svg" width="30" />
 </a>&nbsp;
+<a target="_blank" href="https://github.com/yurijserrano/LANGUAGES-TOOLS-LOGOS/tree/master/cloud">
+	<img src="https://img.shields.io/badge/ShellScript-black?style=for-the-badge&color=09cc5f" />
+	<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/bash.svg" width="30" />
+</a>&nbsp;
+<a target="_blank" href="https://github.com/yurijserrano/LANGUAGES-TOOLS-LOGOS/tree/master/cloud">
+	<img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&color=0977bb" />
+	<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/docker.svg" width="30" />
+</a>&nbsp;
 	
 </p>
 
