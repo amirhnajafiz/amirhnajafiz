@@ -39,8 +39,10 @@ ___
  
 ### Organizations
  - [Daralfonoon](https://github.com/AUT-Daralfonoon) Founder of daralfonoon organization
- - [CEIT-AUT](https://github.com/CEIT-AUT) Courses and projects that I have taken in my university.
+ - [CEIT-AUT](https://github.com/CEIT-AUT) Courses and projects that I have taken in my university
  - [Peovle](https://github.com/Peovle) All of my projects with PHP and Laravel
+ - [Python Storage](https://github.com/python-storage) Python projects for learning python
+ - [Frontend Developing](https://github.com/frontend-developing) Frontend developing projects
  
  ___
 
