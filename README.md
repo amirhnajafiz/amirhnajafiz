@@ -95,6 +95,10 @@ ___
 	<img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&color=0977bb" />
 	<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/docker.svg" width="30" />
 </a>&nbsp;
+<a target="_blank" href="https://github.com/yurijserrano/LANGUAGES-TOOLS-LOGOS/tree/master/others">
+	 <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&color=000000" />
+	 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/rust.svg" width="30" />
+</a>&nbsp;
 	
 </p>
 
