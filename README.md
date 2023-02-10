@@ -69,10 +69,6 @@ Two years experience in **Front-end** developing, using _Vue.js_<br />
 
  - [Daralfonoon](https://github.com/AUT-Daralfonoon) Founder of daralfonoon organization.
  - [Ceit-aut](https://github.com/CEIT-AUT) Courses and projects that I have taken in my university.
- - [Peovle](https://github.com/Peovle) All of my projects with PHP and Laravel.
- - [Python Storage](https://github.com/python-storage) Python projects for learning python.
- - [Frontend Developing](https://github.com/frontend-developing) Frontend developing projects.
- - [Highway to Victory](https://github.com/highway-to-victory) All of my projects in programming.
  
 <br />
 
