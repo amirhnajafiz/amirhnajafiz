@@ -7,6 +7,7 @@
     	"love"
     )
     
+    // It's never to late to do what you have been dreaming of
     // Be rebel, Be unique, Be yourself
     func main() {
     	// create a new me
@@ -35,7 +36,7 @@
 ```
 
 <h1 align="center">Hi 👋, I'm Amirhossein</h1>
-<h3 align="center">21 years old Midlevel Software and DevOps Engineer</h3>
+<h3 align="center">Midlevel Software and DevOps Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirhnajafiz&label=Profile%20views&color=0e75b6&style=flat" alt="amirhnajafiz" /> </p>
 
@@ -47,28 +48,30 @@
 
 - 📫 How to reach me **amirhossein.najafizadeh21@gmail.com**
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/amirhnajafiz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="amirhnajafiz" /></a></p><br><br>
+<br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amirhnajafiz&show_icons=true&locale=en&layout=compact" alt="amirhnajafiz" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amirhnajafiz&show_icons=true&locale=en" alt="amirhnajafiz" /></p>
+| <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amirhnajafiz&show_icons=true&locale=en&layout=compact" alt="amirhnajafiz" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=amirhnajafiz&show_icons=true&locale=en" alt="amirhnajafiz" /> |
+|----|----|
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amirhnajafiz&" alt="amirhnajafiz" /></p>
 
 
+## :tipping_hand_person: More about me
 
-## About me
+My goal in life is to learn and learn and learn as long as I can.
+I'm Currently studing **Computer Engineering** at _Amirkabir University of Tehran_, Iran.
+My study fields are Computer Networks and Cloud Computing.
 
-Currently studing **Computer Engineering** at _Amirkabir University of Tehran_, Iran.
-Working as a full-time Back-end developer at **Snapp-Cab**.
-One year experience in **PHP/Laravel** developing.
-Two years experience in **Front-end** developing, using _Vue.js_<br />
+I work as a full-time Back-end developer at **Snapp!** company with 2 years of experience.
+I have one year experience in backedn developing using **PHP/Laravel**.
+But before them I had 2 years of experience in **Front-end** developing, using _Vue.js_ framework.
 
 
 ### Fields of interest
 
- - Software Engineering  
- - Computer Networks
- - DevOps
- - Teaching and Mentoring
+ - :computer: Software Engineering  
+ - :electric_plug: Computer Networks
+ - :cloud: Cloud Computing
+ - :plunger: Site Reliability Engineering
+ - :floppy_disk: DevOps
+ - :man_teacher: Teaching and Mentoring
