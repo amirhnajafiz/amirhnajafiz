@@ -1,13 +1,3 @@
-<p align="center">
-  <img src="crop.php.jpg" /> 
-</p>
-
-<br />
-
-> A wise man once said _'' Its never too late to do what you have been dreamed of ''_, so here I go.
-
-<br />
-
 ```go
     package main
     
@@ -62,15 +52,3 @@ Two years experience in **Front-end** developing, using _Vue.js_<br />
  - Computer Networks
  - DevOps
  - Teaching and Mentoring
- 
-<br />
- 
-### Organizations
-
- - [Daralfonoon](https://github.com/AUT-Daralfonoon) Founder of daralfonoon organization.
- - [Ceit-aut](https://github.com/CEIT-AUT) Courses and projects that I have taken in my university.
- 
-<br />
-
-<br /><br /><br />
-It is my pleasure to help people with their problems, so if you ever needed me just send me an email ;)
