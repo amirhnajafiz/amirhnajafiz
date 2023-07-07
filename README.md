@@ -6,6 +6,14 @@
     	"life"
     	"love"
     )
+
+    func skills() map[string]interface{} {
+	return map[string]interface{
+		"coding": []string{"Go","Python","C","JavaScript","PHP"},
+		"tools": []string{"Docker","Kubernetes","OpenShift"},
+		"academic": []string{"Cloud Computing","Computer Networks","Operating Systems"},
+	}
+    }
     
     // It's never to late to do what you have been dreaming of
     // Be rebel, Be unique, Be yourself
@@ -13,9 +21,16 @@
     	// create a new me
     	me := &rebel{
 		Name: "Amirhossein",
-		Love: &love.Honey{},
+		Love: &love.Honey{
+			Name: "Asal",
+			ExpiresAt: nil,
+			LoveAmount: love.Infinite,
+		},
 		Effort: rebel.Maximum,
-		Interests: []string{"Computers", "Sleep", "Rock&Roll", "Batman"},
+		Type: []int{life.FunnyOne, life.FatOne, life.StupidOne},
+		Interests: []string{"Computers", "Movies", "Rock & Roll (80s & 90s)", "Batman"},
+		Skills: skills(),
+		Slogan: "Everything will be alright, just keep going",
 	}
 	
 	// start life
@@ -27,9 +42,11 @@
 		go me.DreamBig()
 		go me.KeepWorking(life.HardCore)
 		go life.Enjoy()
+
+		me.Learn(life.NewThing)
 		
 		if me.FuckedUp() {
-			me.SeeLove()
+			me.SeeMyLove()
 		}
 	}
     }
