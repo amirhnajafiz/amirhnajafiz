@@ -4,7 +4,7 @@ const path = "contents/README.md";
 function getReadme(user, repo) {
     fetch(`${api}/${user}/${repo}/${path}`) // Fetch the file from GitHub's api
         .then((response) => {
-            response.json();
+            return response.json();
         })
         .then(data => {
             const content = atob(data.content); // Convert from base64 to readable text
