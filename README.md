@@ -9,8 +9,8 @@
 
     func skills() map[string]interface{} {
 	return map[string]interface{
-		"coding": []string{"Go","Python","C","JavaScript","PHP"},
-		"tools": []string{"Docker","Kubernetes","OpenShift"},
+		"coding": []string{"Go","Python","C","C++","JavaScript","PHP"},
+		"tools": []string{"Docker","Kubernetes","ELK","OpenShift","Ansible"},
 		"academic": []string{"Cloud Computing","Computer Networks","Operating Systems"},
 	}
     }
@@ -28,7 +28,7 @@
 		},
 		Effort: rebel.Maximum,
 		Type: []int{life.FunnyOne, life.FatOne, life.StupidOne},
-		Interests: []string{"Computers", "Movies", "Rock & Roll (80s & 90s)", "Batman"},
+		Interests: []string{"Computers", "Movies", "Rock & Roll (80s & 90s)", "Batman", "Guitar"},
 		Skills: skills(),
 		Slogan: "Everything will be alright, just keep going",
 	}
