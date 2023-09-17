@@ -1,25 +1,25 @@
 ```go
-    package main
-    
-    import (
-    	"rebel"
-    	"life"
-    	"love"
-    )
+package main
 
-    func skills() map[string]interface{} {
+import (
+	"rebel"
+	"life"
+	"love"
+)
+
+func skills() map[string]interface{} {
 	return map[string]interface{
 		"coding": []string{"Go","Python","C","C++","JavaScript","PHP"},
 		"tools": []string{"Docker","Kubernetes","ELK","OpenShift","Ansible"},
 		"academic": []string{"Cloud Computing","Computer Networks","Operating Systems"},
 	}
-    }
-    
-    // It's never to late to do what you have been dreaming of
-    // Be rebel, Be unique, Be yourself
-    func main() {
-    	// create a new me
-    	me := &rebel{
+}
+
+// It's never to late to do what you have been dreaming of
+// Be rebel, Be unique, Be yourself
+func main() {
+	// create a new me
+	me := &rebel{
 		Name: "Amirhossein",
 		Love: &love.Honey{
 			Name: "Asal",
@@ -42,12 +42,12 @@
 		go me.DreamBig()
 		go me.KeepWorking(life.HardCore)
 		go life.Enjoy()
-
+	
 		me.Learn(life.NewThing)
 		
 		if me.FuckedUp() {
 			me.SeeMyLove()
 		}
 	}
-    }
+}
 ```
