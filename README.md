@@ -5,13 +5,20 @@ import (
 	"rebel"
 	"life"
 	"love"
+	"seawolves"
 )
 
-func skills() map[string]interface{} {
+func init() {
+	os.Setenv("WISE_MAN_SAID", "Everything will be alright, just keep going forward ..")
+}
+
+func characteristics() map[string]interface{} {
 	return map[string]interface{
-		"coding": []string{"Go","Python","C","C++","JavaScript","PHP"},
-		"tools": []string{"Docker","Kubernetes","ELK","OpenShift","Ansible"},
-		"academic": []string{"Cloud Computing","Computer Networks","Operating Systems"},
+		"coding": []string{"Go", "Python", "C", "C++", "Rust", "JavaScript", "PHP"},
+		"fav_companies": []string{"Google", "RedHat", "AWS", "iBM"},
+		"fields": []string{"Distributed Systems", "Virtualization", "Operating Systems", "Systems Security"},
+		"fav_os": "linux ubuntu",
+		"fav_app": "Notion",
 	}
 }
 
@@ -20,16 +27,16 @@ func skills() map[string]interface{} {
 func main() {
 	// create a new me
 	me := &rebel{
-		Name: "Amirhossein",
+		Name: "Amir Hossein",
 		Love: &love.Honey{
 			Name: "Asal",
 			ExpiresAt: nil,
 			LoveAmount: love.Infinite,
 		},
-		Effort: rebel.Maximum,
-		Type: []int{life.FunnyOne, life.FatOne, life.StupidOne},
-		Interests: []string{"Computers", "Movies", "Rock & Roll (80s & 90s)", "Batman", "Guitar"},
-		Skills: skills(),
+		Effort: rebel.Maximum + seawolves.Spirit,
+		Type: []int{life.FunnyOne, life.FatOne, life.RebelOne},
+		Interests: []string{"Computers", "Movies", "Rock & Roll (80s & 90s)", "Batman", "Guitar", "Asal"},
+		Characteristics: characteristics(),
 		Slogan: "Everything will be alright, just keep going",
 	}
 	
