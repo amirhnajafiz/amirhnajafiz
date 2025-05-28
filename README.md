@@ -33,35 +33,38 @@ func fun_facts() {
 
 	// fav_sports_and_team
 	soccer := "Arsenal (Let's go gunners .....)"
-	basketball := "LA Lakers"
+	basketball := "New York Knicks"
 
 	// fav_series
-	s1 := "Brooklyn 99"
-	s2 := "Family Guy"
-	s3 := "Office (US version)"
+	series := []string{"Brooklyn 99", "Modern Family", "Mr.Robot", "Family Guy", "Office (US version)"}
+	for _, s := range series {
+		fmt.Println(s)
+	}
 }
 
 // It's never to late to do what you have been dreaming of
 // Be rebel, Be unique, Be yourself
 func main() {
 	// create a new me
-	me := &rebel{
+	me := &rebel.Man{
 		Name: "Amir Hossein",
 		Love: &love.Honey{
 			Name: "Asal",
 			ExpiresAt: nil,
-			LoveAmount: love.Infinite,
+			LoveAmount: love.Endless,
 		},
 		Effort: rebel.Maximum + seawolves.Spirit,
 		Type: []int{life.FunnyOne, life.FatOne, life.RebelOne},
 		Interests: []string{"Computers", "Movies", "Rock & Roll (80s & 90s)", "Batman", "Guitar", "Asal"},
 		Characteristics: characteristics(),
-		Slogan: "Everything will be alright, just keep going",
+		Slogan: "In GOD we trust, In people we just",
 	}
 	
 	// start life
 	life.Start(me)
 	defer life.Exit(me)
+
+	fun_facts()
 	
 	// my life cycle
 	for me.IsAlive() {
