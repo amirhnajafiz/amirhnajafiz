@@ -43,7 +43,6 @@ func fun_facts() {
 	soccer := "Arsenal (Let's go gunners .....)" // death to Tottenham (sorry, respect to all fans)!
 	basketball := "New York Knicks"              // ohhhhh this is real
 	football := "Baltimore Ravens"               // well, who doesn't love them??
-	nascar := "Denny Hamlin"                     // i love you man!
 }
 
 // Want some motivational bull***t??
